@@ -1,0 +1,23 @@
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:15px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+}
+
+/* Styling for NavBar */
+
+.navbar-brand {
+    padding: 10px 22px;
+    background-color: #4aaaa5;
+    color: white !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 16%;
+}
